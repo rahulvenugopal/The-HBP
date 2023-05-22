@@ -1,5 +1,5 @@
 # The heart brain project 🧠 🫀
-![]()
+![Illustration](https://github.com/rahulvenugopal/The-HBP/blob/main/HEP.png)
 
 ### Part 1: Get clean data
 1. Load the data and select EEG channels only (in microvolts)

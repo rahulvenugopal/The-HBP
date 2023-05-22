@@ -12,7 +12,7 @@
 ### Part 2: Finding R peaks and cut the data
 1. Identify R peaks and add those points as a STIM channel
 2. Go through the detected R peaks and create a data cleaning report
-3. Epoch the data based on R peaks and have metadta saved based on sleep stages
+3. Epoch the data based on R peaks and have metadata saved based on sleep stages
 4. Reject criteria for amplitude and flatness
 5. Keep a summary of rejected epochs/channels
 6. Write the epochs count per subject per sleep stage
@@ -23,7 +23,7 @@
 2. Save the results figure
 3. Log the error if TFCE fails
 
-### Part 4  (if TFCE fails)
+### Part 4  (if TFCE fails from SD being close to `0`)
 1. Compute permutation based statistics for each electrode across time
 2. Save the results figures for each channels and create topomaps
 

@@ -5,7 +5,7 @@
 1. Load the data and select EEG channels only (in microvolts)
 2. Basic filtering
 3. Remove bad channels
-4. Run ICA for blinks and ECG component removal
+4. Run ICA for ECG component removal
 5. Reference to A1 and A2
 5. Save the dataset with ECG put back to this
 

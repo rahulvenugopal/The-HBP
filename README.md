@@ -36,3 +36,8 @@
 1. Pick 3 foundational papers on HEP
 2. Pick 3 on HEP and meditation
 3. Pick 3 on HEP and sleep
+
+---
+# Cardioception
+![](https://raw.githubusercontent.com/embodied-computation-group/Cardioception/master/images/HeartRateDiscrimination.png)
+1. Understand the [psi paper](https://www.sciencedirect.com/science/article/pii/S0042698998002855)

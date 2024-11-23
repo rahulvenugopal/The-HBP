@@ -19,13 +19,11 @@
 7. Pickle the averaged HEPs
 
 ### Part 3: Statistics
-1. Compute TFCE
-2. Save the results figure
-3. Log the error if TFCE fails
+1. Comparison against surrogates
+2. Condition and Group comparison
 
-### Part 4  (if TFCE fails from SD being close to `0`)
-1. Compute permutation based statistics for each electrode across time
-2. Save the results figures for each channels and create topomaps
+### Part 4  (Data Visualisation)
+1. Save the results figures for each channels and create topomaps
 
 ### Part 5: HRV analysis
 1. Get the ECG channels and run Neurokit2 on it
